@@ -37,7 +37,7 @@ winit = "0.30.5"
 js-sys = "0.3.22"
 wasm-bindgen = "0.2"
 web-sys = { version = "0.3.22", features = ["HtmlHeadElement", "WebGlRenderingContext"] }
-winit = { version = "0.30.5", features = ["web-sys"] }
+winit = { version = "0.30.5" }
 
 [[example]]
 name = "cache"
